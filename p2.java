@@ -8,12 +8,12 @@ public class p2 {
         if(basicPay<= 5000){
             hra = 20*basicPay/100;
             da = 30*basicPay/100;
-            System.out.println("Gross pay ="+(basicPay+hra+da));
         }else{
             hra = 10*basicPay/100;
             da = 20*basicPay/100;
-            System.out.println("Gross pay ="+(basicPay+hra+da));
 
         }
+        System.out.println("Gross pay ="+(basicPay+hra+da));
+
     }
 }

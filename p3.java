@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-import java.util.Random.*;
 public class p3 {
     public static void main(String[] args) {
         Random rnd = new Random();
